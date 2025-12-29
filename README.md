@@ -3,7 +3,7 @@
 **Frontend Developer | React & Next.js Specialist | UI Enthusiast**  
 📍 Pakistan 🇵🇰 — building scalable, modern web applications with clean UI.
 
-🌐 **Portfolio:** https://imkashifkhan.netlify.app/
+🌐 **Portfolio:** https://iamkashifkhan.netlify.app/
 
 ---
 
@@ -61,7 +61,7 @@ Python-based crawler for automated data extraction.
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://imkashifkhan.netlify.app/
+- 🌐 Portfolio: https://iamkashifkhan.netlify.app/
 - 🐦 Twitter: https://twitter.com/iamkashifkhn
 
 ---
