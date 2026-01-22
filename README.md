@@ -3,7 +3,6 @@
 **Frontend Developer | React & Next.js Specialist | UI Enthusiast**  
 📍 Pakistan 🇵🇰 — building scalable, modern web applications with clean UI.
 
-🌐 **Portfolio:** https://iamkashifkhan.netlify.app/
 
 ---
 
