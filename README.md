@@ -60,7 +60,6 @@ Python-based crawler for automated data extraction.
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://iamkashifkhan.netlify.app/
 - 🐦 Twitter: https://twitter.com/iamkashifkhn
 
 ---
